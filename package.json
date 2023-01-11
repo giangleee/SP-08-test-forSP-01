@@ -1,0 +1,17 @@
+{
+  "name": "test-unit-le-thanh-giang",
+  "version": "1.0.0",
+  "description": "For test unit SP purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "axios": "^1.2.2"
+  }
+}
